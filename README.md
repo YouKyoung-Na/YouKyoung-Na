@@ -8,7 +8,7 @@
  📫 mail: 214499@jnu.ac.kr<br>
  😎 instagram: @me6zero_o
 
-<br><br><br>
+<br><br>
   
 <h3>💻 Tech Stack 💻</h3>  
 <img src="https://img.shields.io/badge/Python-4641D9?style=flat-square&logo=Python&logoColor=white"/>
