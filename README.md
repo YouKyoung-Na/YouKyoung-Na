@@ -14,7 +14,7 @@
 <h3>💻 Tech Stack 💻</h3>
 <br><br>
 <img src="https://img.shields.io/badge/Python-4641D9?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-47C83E?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-5D5D5D?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-8041D9?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-D9418C?style=flat-square&logo=CSS3&logoColor=white"/>
 
