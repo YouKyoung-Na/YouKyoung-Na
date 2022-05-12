@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/CSS-C72F7A?style=flat-square&logo=CSS3&logoColor=white"/>
 
 <br><br>
-![YouKyoung-Na's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouKyoung-Na&show_icons=true&theme=swift)
+![YouKyoung-Na's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouKyoung-Na&show_icons=true&theme=swift)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouKyoung-Na&layout=compact&theme=swift)
  
 <br><br><br>
