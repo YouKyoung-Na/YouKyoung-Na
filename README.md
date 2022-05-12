@@ -6,7 +6,7 @@
  🌱 I’m currently interested in Deep Learning
 <br><br>
 <h3> How to reach me ... </h3>
- 📫 mail: dbrudskql823@naver.com <br>
+ 📫 mail: 214499@jnu.ac.kr <br>
  😎 instagram: @me6zero_o
 
 <br><br><br>
