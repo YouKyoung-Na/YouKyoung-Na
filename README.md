@@ -23,6 +23,8 @@
  <img src="https://img.shields.io/badge/CSS-C72F7A?style=flat-square&logo=CSS3&logoColor=white"/>
  
 <br><br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23477FD5&title_bg=%2332458C&icon=&icon_color=%23E7E7E7&title=Hits%21&edge_flat=true"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A886E0&title_bg=%23674EC5&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dbrudskql823)](https://solved.ac/dbrudskql823)
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C98AFF&height=150&section=footer"/>
