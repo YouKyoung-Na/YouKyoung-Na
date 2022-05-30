@@ -11,8 +11,8 @@
  😎 instagram: @me6zero_o
 
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouKyoung-Na&layout=compact&theme=shades-of-purple)<br><br>
-![YouKyoung-Na's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouKyoung-Na&show_icons=true&theme=shades-of-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouKyoung-Na&layout=compact&theme=material-palenight)<br><br>
+![YouKyoung-Na's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouKyoung-Na&show_icons=true&theme=material-palenight)
  
 
 <h4>💻Tech Stack💻</h4>  
