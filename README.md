@@ -15,7 +15,7 @@
 ![YouKyoung-Na's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouKyoung-Na&show_icons=true&theme=github_dark)
  
 
-<h3>💻Tech Stack💻</h3>  
+<h3>Tech Stack</h3>  
 <img src="https://img.shields.io/badge/Python-4641D9?style=flat-square&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/Java-990085?style=flat-square&logo=java&logoColor=white"/>
  <img src="https://img.shields.io/badge/C-5D5D5D?style=flat-square&logo=C&logoColor=white"/>
