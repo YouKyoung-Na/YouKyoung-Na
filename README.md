@@ -21,4 +21,4 @@
  <img src="https://img.shields.io/badge/CSS-C72F7A?style=flat-square&logo=CSS3&logoColor=white"/>
  
 <br><br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYouKyoung-Na&count_bg=%23B1DDFF&title_bg=%232380CF&icon=&icon_color=%23E7E7E7&title=Hits%21&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23477FD5&title_bg=%2332458C&icon=&icon_color=%23E7E7E7&title=Hits%21&edge_flat=true)](https://hits.seeyoufarm.com)
