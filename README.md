@@ -3,8 +3,8 @@
 
 
 <h3> Hi there 👋 I'm YouKyoung-Na</h3>
- I’m currently studying on Artificial Intelligence in Chonnam National University <br>
- I’m currently working Computer Vision & Deep Learning at CVLab
+ Studying on Artificial Intelligence in Chonnam National University (21.03~) <br>
+ Working iComputer Vision & Deep Learning at CVLab (22.07~)
 <br><br> 
 <h3> How to reach me ... </h3>
  📫 mail: 214499@jnu.ac.kr<br>
