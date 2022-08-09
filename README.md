@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C98AFF&height=150&section=header"/>
 
 
-<h3> Hi there 👋 I'm YouKyoung-Na</h3>
+<h3> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm YouKyoung-Na</h3>
  Studying on Artificial Intelligence in Chonnam National University (21.03~) <br>
  Working iComputer Vision & Deep Learning at CVLab (22.07~)
 <br><br> 
