@@ -7,7 +7,7 @@
  Working iComputer Vision & Deep Learning at CVLab (22.07~)
 <br><br> 
 <h3> How to reach me ... </h3>
- 📫 mail: 214499@jnu.ac.kr<br>
+ 📫 mail: me6zero@jnu.ac.kr<br>
  😎 instagram: @me6zero_o
 
 <br><br>
