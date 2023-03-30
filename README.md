@@ -4,7 +4,7 @@
 
 <h3> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm YouKyoung-Na</h3>
  Studying on Artificial Intelligence in Chonnam National University (21.03~) <br>
- Working iComputer Vision & Deep Learning at CVLab (22.07~)
+ Working in Computer Vision & Deep Learning at CVLab (22.07~)
 <br><br> 
 <h3> How to reach me ... </h3>
  📫 mail: me6zero@jnu.ac.kr<br>
