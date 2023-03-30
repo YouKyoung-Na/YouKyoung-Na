@@ -21,10 +21,10 @@
  <img src="https://img.shields.io/badge/C-5D5D5D?style=flat-square&logo=C&logoColor=white"/>
  <img src="https://img.shields.io/badge/HTML-8041D9?style=flat-square&logo=HTML5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS-C72F7A?style=flat-square&logo=CSS3&logoColor=white"/>
- <img src ="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white?"/>
+<!--  <img src ="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white?"/>
  <br>
  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+ ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) -->
 <br><br><br>
  <hr>
 <br><br>
