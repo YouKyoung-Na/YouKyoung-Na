@@ -12,8 +12,10 @@
 
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouKyoung-Na&layout=compact&theme=buefy&langs_count=10)<br><br>
-![YouKyoung-Na's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouKyoung-Na&show_icons=true&theme=buefy)
- 
+
+<!--
+YouKyoung-Na's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouKyoung-Na&show_icons=true&theme=buefy)
+ -->
 
 <h3>Tech Stack</h3>  
 <img src="https://img.shields.io/badge/Python-4641D9?style=flat-square&logo=Python&logoColor=white"/>
