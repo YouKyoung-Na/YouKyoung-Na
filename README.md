@@ -7,7 +7,7 @@
  Working in Computer Vision & Deep Learning at CVLab, Chonnam National University (22.07~)
 <br><br> 
 <h3> How to reach me ... </h3>
- 📫 mail: me6zero@jnu.ac.kr<br>
+ 📫 mail: youkyoung@jnu.ac.kr<br>
  😎 instagram: @me6zero_o
 
 <br><br>
